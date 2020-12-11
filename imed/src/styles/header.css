@@ -1,0 +1,35 @@
+.header {
+  background-color: #c8e2ce;
+
+  height: 7rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header input {
+  width: 50rem;
+  height: 4rem;
+
+  border-radius: 0 0 0 1rem;
+  border: none;
+
+  color: #fff;
+}
+.button {
+  background-color: #fff;
+  border: none;
+
+  height: 100rem;
+}
+
+.links {
+  position: absolute;
+  right: 0;
+
+  width: 20rem;
+  padding-right: 2.2rem;
+
+  display: flex;
+  justify-content: space-between;
+}

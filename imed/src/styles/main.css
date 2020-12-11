@@ -1,0 +1,11 @@
+:root {
+  font-size: 62.5%; /* padrão root 16px // 16 * 62.5% = 10px // 10px = 1rem */
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background: linear-gradient(120deg, #032c08, #63f5ac);
+  height: 100vh;
+}
